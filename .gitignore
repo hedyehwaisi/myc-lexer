@@ -1,1 +1,12 @@
+# Ignore Python bytecode files
 *.pyc
+
+# Ignore .idea folder and related files
+.idea/
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
